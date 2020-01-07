@@ -1,5 +1,9 @@
+html {
+    font-family: sans-serif;
+}
+
 h1 {
-    color: #00f;
+    color: red;
     text-align: center;
 }
 
@@ -8,12 +12,19 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-style: italic;
+    font-size: 20px;
+}
 
 p {
     font-family: sans-serif;
 }
 
-ul {
+ul, ol {
     font-size: 20px;
     line-height: 30px;
 }
+
+
+
